@@ -4,7 +4,7 @@
 
 Frontend-focused web developer at Demis · Angular and TypeScript
 
-[karvarz.me](https://karvarz.me/) · [LinkedIn](https://www.linkedin.com/in/sadegh-shabanpour-94a468221/) · [Stack Overflow](https://stackoverflow.com/users/17273331) · [sadegh.751214@gmail.com](mailto:sadegh.751214@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sadegh-shabanpour-94a468221/) · [Stack Overflow](https://stackoverflow.com/users/17273331) · [sadegh.751214@gmail.com](mailto:sadegh.751214@gmail.com)
 
 </div>
 
@@ -16,7 +16,6 @@ My earlier GitHub work is mostly HTML, CSS, and vanilla JavaScript practice. Mor
 
 ## Current focus
 
-- Building [Karvarz](https://karvarz.me/)
 - Developing **service-platform**, a private multi-tenant SaaS monorepo (Angular, PrimeNG, NestJS, and Prisma/PostgreSQL), currently centered on an automotive-shop vertical
 
 ## Featured projects
